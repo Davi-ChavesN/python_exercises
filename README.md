@@ -17,3 +17,8 @@ ___
 
 - [Praticando no Python](/DS/Praticando%20no%20Python/PraticandoNoPython.ipynb)
 
+
+
+
+
+https://www.canva.com/design/DAGz0Cf4rlw/Xh3EF67wVy4QvU--hJTdEg/view?utm_content=DAGz0Cf4rlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h27d8bb5363
