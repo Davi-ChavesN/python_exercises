@@ -10,7 +10,7 @@ ___
 - [Atividade 2: Praticando o Pré-processamento para trabalhar com Modelos de Máquina de Aprendizagem](/AI/Atividade2/Atividade%202.ipynb)
 - [Atividade 3: Praticando Algoritmo Genético](/AI/Atividade3/Atividade%203.ipynb)
 - [Atividade 4: Praticando Algoritmo Genético Multiobjetivo (AGMO)](/AI/Atividade4/Atividade%204.ipynb)
-- [Atividade 5: Praticando Redes Neurais Convolucionais (CNN)](/AI/Atividade5/) 
+- [Atividade 5: Redes Multilayer Perceptron (MLP)](/AI/Atividade5/Atividade%205.ipynb) 
 
 ___
 ### Ciência de dados
