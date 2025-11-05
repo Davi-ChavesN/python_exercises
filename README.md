@@ -20,3 +20,4 @@ ___
     - [Exercicio 2 - Pré-processamento](/DS/Atividade1%20-%20Praticando%20no%20Python/PreProcessamento.ipynb)
 - [Atividade 2: Classificadores](/DS/Atividade2%20-%20Classificadores/Atividade2.ipynb)
 - [Atividade 3: Regressão Linear e Séries Temporais](/DS/Atividade3%20-%20Regressão%20ou%20Séries%20Temporais/Atividade3.ipynb)
+- [Atividade 4: Agrupamento](/DS/Atividade4%20-%20Agrupamento/Atividade4.ipynb)
