@@ -13,6 +13,10 @@ ___
 - [Atividade 5: Redes Multilayer Perceptron (MLP)](/AI/Atividade5/Atividade%205.ipynb)
 - [Atividade 6: Redes Neurais Convolucionais](/AI/Atividade6/Atividade%206.ipynb)
 - [Atividade 7: Long Short Term Memory](/AI/Atividade7/Atividade%207.ipynb)
+- [Atividade 8: Processamento de Linguagem Natural](/AI/Atividade8/Atividade_8.ipynb)
+- [Atividade 9: Processamento de Linguagem Natural](/AI/Atividade9/Atividade_9.ipynb)
+- [Atividade 10: Processamento de Linguagem Natural](/AI/Atividade10/Atividade_10.ipynb)
+- [Atividade Final]()
 
 ___
 ### Ciência de dados
@@ -23,3 +27,4 @@ ___
 - [Atividade 2: Classificadores](/DS/Atividade2%20-%20Classificadores/Atividade2.ipynb)
 - [Atividade 3: Regressão Linear e Séries Temporais](/DS/Atividade3%20-%20Regressão%20ou%20Séries%20Temporais/Atividade3.ipynb)
 - [Atividade 4: Agrupamento](/DS/Atividade4%20-%20Agrupamento/Atividade4.ipynb)
+- [Atividade 5: Recomendação](/DS/Atividade5%20-%20Recomendação/Atividade5.ipynb)
